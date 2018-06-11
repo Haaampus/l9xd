@@ -4,10 +4,10 @@
 	<meta charset="UTF-8">
 	<meta property="og:site_name" content="L9 Boosting">
 	<meta property="og:title" content="Welcome">
-	<meta property="og:url" content="http://www.l9eloboosting.com/">
+	<meta property="og:url" content="https://hampusn1lsson.github.io/l9xd/">
 	<meta property="og:type" content="website">
 	<meta itemprop="name" content="Welcome">
-	<meta itemprop="url" content="http://www.l9eloboosting.com/">
+	<meta itemprop="url" content="https://hampusn1lsson.github.io/l9xd/">
 	<meta name="description" content="L9 Elo Boosting / Coaching , League of Legends' Best Service Provider , 
 	High Quality services working with Professional and Famous Streamers and 
 	players that are in the Top Challenger Ladder. Order with us today!">
@@ -15,7 +15,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no">
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo asset('website_assets/css/app.css'); ?>">
-	<title>L9 Elo Boosting</title>
+	<title>Kattboost Elo Boosting</title>
 </head>
 <body>
 	
@@ -86,7 +86,7 @@
 						<p>The minimum rank is Masters to apply.</p>
 						<p>We ensure that only the best boosters are working with you.</p>
 						<p>Boosters are put into 'Tiers' after they join our team.</p>
-						<p>THE L9 ELITE: TOP BOOSTERS </p>
+						<p>THE KATTBOOST ELITE: TOP BOOSTERS </p>
 						<p>TIER 1: VERIFIED CHALLENGERS</p>
 						<p>TIER 2: VERIFIED MASTERS 150+ LP</p>
 						<p style="padding-bottom: 30px;">TIER 2X: VERIFIED MASTERS</p>
@@ -122,11 +122,11 @@
 	<section class="pink">
 		<div class="container text-center">
 			<a href="<?php echo App\Router\Router::url('terms-of-services'); ?>" class="button button-sm button-pink">Terms of services</a>
-			<h3 style="margin-top: 50px;">L9 BOOSTING</h3>
+			<h3 style="margin-top: 50px;">KATTBOOST</h3>
 			<p>League of Legends is a registered trademark of Riot Games, Inc. We are in no way affiliated with, associated with or endorsed by Riot Games, Inc.</p>
 			<br>
 			<br>
-			<p class="text-left">2017-2018 L9 Boosting | ALL RIGHTS RESERVED</p>
+			<p class="text-left">2017-2018 Kattboost | ALL RIGHTS RESERVED</p>
 		</div>
 	</section>
     <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '0c16e816-4dde-41ce-b314-5147fd52f1f7', f: true }); done = true; } }; })();</script>

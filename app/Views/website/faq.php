@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no">
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo asset('website_assets/css/app.css'); ?>">
-	<title>FAQ — L9 Boosting</title>
+	<title>FAQ — Kattboost</title>
 </head>
 <body>
 	
@@ -98,11 +98,11 @@
 	<section class="pink">
 		<div class="container text-center">
 			<a href="<?php echo App\Router\Router::url('terms-of-services'); ?>" class="button button-sm button-pink">Terms of services</a>
-			<h3 style="margin-top: 50px;">L9 BOOSTING</h3>
+			<h3 style="margin-top: 50px;">Kattboost</h3>
 			<p>League of Legends is a registered trademark of Riot Games, Inc. We are in no way affiliated with, associated with or endorsed by Riot Games, Inc.</p>
 			<br>
 			<br>
-			<p class="text-left">2017-2018 L9 Boosting | ALL RIGHTS RESERVED</p>
+			<p class="text-left">2017-2018 Kattboost | ALL RIGHTS RESERVED</p>
 		</div>
 	</section>
 

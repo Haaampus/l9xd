@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no">
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo asset('website_assets/css/app.css'); ?>">
-	<title>Our Services — L9 Boosting</title>
+	<title>Our Services — Kattboost</title>
 </head>
 <body>
 	
@@ -40,7 +40,7 @@
 				<div class="header-content">
 					<h1 class="header-page-title">our services</h1>
 					<div class="header-page-description">
-						<p>These are the services we offer here at L9 Elo Boosting!</p>
+						<p>These are the services we offer here at Kattboost Elo Boosting!</p>
 					</div>
 				</div>
 			</div>
@@ -56,7 +56,7 @@
 			<hr>
 			<h1 class="section-h1-pink">WHAT WE OFFER</h1>
 
-			<h3 class="section-h3-blue">L9 SPECIAL BOOST</h3>
+			<h3 class="section-h3-blue">KATTBOOST SPECIAL BOOST</h3>
 			<p>This is a special boost ordered only from us! You get a LAN Server account done from Level 30 Unranked to Challenger!</p>
 			<p>This price is a base set price that is unfixable; meaning it can't be changed!</p>
 			<p>People buy this special order because once we get to Challenger and hand you over the account, most transfer their accounts to different servers at the end of the season after they receive their rewards, meaning the shiny Challenger border and icon, along with the Physical Reward + In Game Specialties + Challenger MMR on their new server and fresh unplaced games.</p>
@@ -93,11 +93,11 @@
 	<section class="pink">
 		<div class="container text-center">
 			<a href="<?php echo App\Router\Router::url('terms-of-services'); ?>" class="button button-sm button-pink">Terms of services</a>
-			<h3 style="margin-top: 50px;">L9 BOOSTING</h3>
+			<h3 style="margin-top: 50px;">KATTBOOST</h3>
 			<p>League of Legends is a registered trademark of Riot Games, Inc. We are in no way affiliated with, associated with or endorsed by Riot Games, Inc.</p>
 			<br>
 			<br>
-			<p class="text-left">2017-2018 L9 Boosting | ALL RIGHTS RESERVED</p>
+			<p class="text-left">2017-2018 Kattboost | ALL RIGHTS RESERVED</p>
 		</div>
 	</section>
 

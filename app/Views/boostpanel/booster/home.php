@@ -178,7 +178,7 @@
 
 
 
-                       <p>As a booster for L9 Boosting, you must abide every single one of these agreements. All must be followed and if any are broken under any circumstances, there will be consequences. (Listed Below)</p>
+                       <p>As a booster for Kattboost, you must abide every single one of these agreements. All must be followed and if any are broken under any circumstances, there will be consequences. (Listed Below)</p>
 
 
 
@@ -205,7 +205,7 @@
                        <p>STARTING ON JUNE 1 , 2018:
                            General Rules:</p>
 
-                       <p>1) Any action against L9ELOBOOSTING.COM will cause punishment.</p>
+                       <p>1) Any action against KATTBOOST.COM will cause punishment.</p>
 
                        <p>2) Every team member need to refrain from:</p>
 
@@ -213,7 +213,7 @@
 
                            actions that could violate the privacy of customers, boosters , and administrators
 
-                           actions violating the good name and reputation of L9ELOBOOSTING
+                           actions violating the good name and reputation of KATTBOOST
 
                            Admins reserve the rights to move team members rights based on the performance and state of the booster.</p>
 
@@ -223,13 +223,13 @@
 
                            <li>- Not maintaining a 70% WR or higher on the SOLO Boost (If you can't do it , don't claim the order)$10-KICK</li>
 
-                           <li>- Not messaging customer about their order being claimed $5</li>
+                           <li>- Not messaging the customer about their order being claimed $5</li>
 
                            <li>- Not starting order within 60 minutes (you must play at least 3 games the day you claim) $10</li>
 
                            <li>- Leaking statistics and systems. $1000-KICK</li>
 
-                           <li>- Using any sort of scripts, cheats , hacks $50-KICK</li>
+                           <li>- Using any sort of scripts, cheats, hacks $50-KICK</li>
 
                            <li>- Revealing yourself as a booster when working $50-KICK</li>
 
@@ -245,15 +245,15 @@
 
                            <li>- Freezing / Pausing order without customer ackowledgment $50-KICK</li>
 
-                           <li>- Not reporting something against L9ELOBOOSTING'S ToS $200-KICK</li>
+                           <li>- Not reporting something against KATTBOOST's ToS $200-KICK</li>
 
                            <li>- Not contacting admin when a problem occurs $30-KICK</li>
 
-                           <li>- If a customer does not like you , and says you underperformed , a test viewing will occur . If admin decide you did not indeed play well : $5-KICK</li>
+                           <li>- If a customer does not like you, and says you underperformed, a test viewing will occur. If admin decide you did not indeed play well : $5-KICK</li>
 
                            <li>- Getting an account banned due to breaking Summoner Code - $150-KICK</li>
 
-                           <li>- When you claim an order you get deducted $5 . After the order is complete , that amount goes back to 0. Like it never happened. This prevents false claiming for boosters.</li>
+                           <li>- When you claim an order you get deducted $5. After the order is complete, that amount goes back to 0. Like it never happened. This prevents false claiming for boosters.</li>
                        </ul>
 
 
@@ -278,9 +278,9 @@
                        <p>CHAT RULES:
                            Greet the customer!</p>
 
-                       <p>Be polite , your attitude is an important aspect for bringing customers back and showing off the reputation of L9ELOBOOSTING.COM.
+                       <p>Be polite, your attitude is an important aspect for bringing customers back and showing off the reputation of KATTBOOST.COM.
 
-                           Do not write to a customer about problems, he will not solve them, he or she will worry more instead , contact an admin instead!
+                           Do not write to a customer about problems, he will not solve them, he or she will worry more instead, contact an admin instead!
 
                            Keep chatting professional and minimal.
 

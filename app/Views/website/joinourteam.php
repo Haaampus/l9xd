@@ -49,11 +49,11 @@
 		<div class="container">
 			<h3 class="section-h3-blue">WANT TO BE A PART OF OUR TEAM?</h3>
 			<p>All Submissions are confidential and will be reviewed only by our management team.</p>
-			<p>L9 Boosting has available job positions, we offer a fair chance to join our team,</p>
+			<p>Kattboost has available job positions, we offer a fair chance to join our team,</p>
 			<p>if you think you will be a great addition to our team and are looking for a reliable paying job,</p>
 			<p>then please do not hesitate to contact us!</p>
 			<p>When your application is sent in, it will be reviewed within 24 hours, and you will get a reply.</p>
-			<p>If you are serious about being apart of L9 Boosting Team, send in your application and you could potentially be joining our team.</p>
+			<p>If you are serious about being apart of Kattboost Boosting Team, send in your application and you could potentially be joining our team.</p>
 			<p>We work with famous streamers and guests occasionally , we will not tolerate anything unprofessional.</p>
 
 			<h3 class="section-h3-blue">WHAT YOU GET OUT OF WORKING FOR US?</h3>
@@ -89,10 +89,10 @@
 				<div class="form-group">
 					<label>Subject</label>
 					<br>
-					<small>TCLB x L9 Applicants will be REQUIRED to be Challenger 500+ LP in NA/EUW to be eligible for trial testing.</small>
+					<small>TCLB x Kattboost Applicants will be REQUIRED to be Challenger 500+ LP in NA/EUW to be eligible for trial testing.</small>
 					<select name="subject" class="form-control">
 						<option value="">Choose the tier you would like to apply for</option>
-						<option value="TCLB x L9 Collab">TCLB x L9 Collab</option>
+						<option value="TCLB x L9 Collab">TCLB x Kattboost Collab</option>
 						<option value="Tier 1">Tier 1</option>
 						<option value="Tier 2">Tier 2</option>
 						<option value="Tier 3">Tier 3</option>
@@ -179,7 +179,7 @@
 				<div class="form-group">
 					<label>Message</label>
 					<br>
-					<small>This is where you impress us on why we should consider taking you to be apart of our L9 Team.</small>
+					<small>This is where you impress us on why we should consider taking you to be apart of our Kattboost Team.</small>
 					<textarea name="message" class="form-control" placeholder="Why choose you over the 30+ other applicants ?"></textarea>
 				</div>
 				<div class="form-group">
@@ -223,11 +223,11 @@
 	<section class="pink">
 		<div class="container text-center">
 			<a href="<?php echo App\Router\Router::url('terms-of-services'); ?>" class="button button-sm button-pink">Terms of services</a>
-			<h3 style="margin-top: 50px;">L9 BOOSTING</h3>
+			<h3 style="margin-top: 50px;">KATTBOOST</h3>
 			<p>League of Legends is a registered trademark of Riot Games, Inc. We are in no way affiliated with, associated with or endorsed by Riot Games, Inc.</p>
 			<br>
 			<br>
-			<p class="text-left">2017-2018 L9 Boosting | ALL RIGHTS RESERVED</p>
+			<p class="text-left">2017-2018 Kattboost | ALL RIGHTS RESERVED</p>
 		</div>
 	</section>
     <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '0c16e816-4dde-41ce-b314-5147fd52f1f7', f: true }); done = true; } }; })();</script>

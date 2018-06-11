@@ -12,7 +12,7 @@
 		  			<h3 class="box-title">Add</h3>
 		  		</div>
 		  		<div class="box-body">
-		  			<small>You have to create an user, then you can add this user to the booster group. 
+		  			<small>You have to create a user, then you can add this user to the booster group. 
 		  				<br>You can add several users to booster group at once.
 		  				<br>By default, boosters have 50% percentage, and they have to set their paypal Email on their account.
 		  				<br>An email will be send to the user with his password (if you create an user)</small>

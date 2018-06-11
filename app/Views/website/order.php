@@ -8,7 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo asset('website_assets/css/app.css'); ?>">
     <!-- Select2 -->
     <link rel="stylesheet" href="<?php echo asset('boostpanel_assets/bower_components/select2/dist/css/select2.min.css'); ?>">
-	<title>Order Now — L9 Boosting</title>
+	<title>Order Now — Kattboost</title>
 </head>
 <body>
 	
@@ -379,11 +379,11 @@
 	<section class="pink">
 		<div class="container text-center">
 			<a href="<?php echo App\Router\Router::url('terms-of-services'); ?>" class="button button-sm button-pink">Terms of services</a>
-			<h3 style="margin-top: 50px;">L9 BOOSTING</h3>
+			<h3 style="margin-top: 50px;">KATTBOOST</h3>
 			<p>League of Legends is a registered trademark of Riot Games, Inc. We are in no way affiliated with, associated with or endorsed by Riot Games, Inc.</p>
 			<br>
 			<br>
-			<p class="text-left">2017-2018 L9 Boosting | ALL RIGHTS RESERVED</p>
+			<p class="text-left">2017-2018 Kattboost | ALL RIGHTS RESERVED</p>
 		</div>
 	</section>
 	

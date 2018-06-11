@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, user-scalable=no">
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo asset('website_assets/css/app.css'); ?>">
-	<title>Our Team — L9 Boosting</title>
+	<title>Our Team — Kattboost</title>
 </head>
 <body>
 	
@@ -54,8 +54,8 @@
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<div class="our_team_content">
-								<h4>Manager/CEO of L9 Boosting</h4>
-								<p>Hi, my name is Danny. I created L9 Boosting group. I work as manager/owner of the business and as customer support, so if you have any questions, please don't hesitate to contact me through discord at Danny #6510, live chat support or email us!</p>
+								<h4>Manager/CEO of Kattboost</h4>
+								<p>Hi, my name is Hampus. I created Kattboost. I work as manager/owner of the business and as customer support, so if you have any questions, please don't hesitate to contact me through discord at hampus#3040, live chat support or email us!</p>
 							</div>
 						</div>
 					</div>
@@ -189,11 +189,11 @@
 	<section class="pink">
 		<div class="container text-center">
 			<a href="<?php echo App\Router\Router::url('terms-of-services'); ?>" class="button button-sm button-pink">Terms of services</a>
-			<h3 style="margin-top: 50px;">L9 BOOSTING</h3>
+			<h3 style="margin-top: 50px;">KATTBOOST</h3>
 			<p>League of Legends is a registered trademark of Riot Games, Inc. We are in no way affiliated with, associated with or endorsed by Riot Games, Inc.</p>
 			<br>
 			<br>
-			<p class="text-left">2017-2018 L9 Boosting | ALL RIGHTS RESERVED</p>
+			<p class="text-left">2017-2018 Kattboost | ALL RIGHTS RESERVED</p>
 		</div>
 	</section>
 

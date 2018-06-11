@@ -12,7 +12,7 @@
 		  			<h3 class="box-title">Add</h3>
 		  		</div>
 		  		<div class="box-body">
-		  			<small>You need to create an user first (if you don't have one already), then you have to choose an user, then you can
+		  			<small>You need to create a user first (if you don't have one already), then you have to choose a user, then you can
 		  			create your order.<br>
 		  			(User created here, will receive an email with the login and password)</small>
 		  			<div class="row" style="margin-top: 30px">
