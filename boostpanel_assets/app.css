@@ -1,0 +1,116 @@
+.img-responsive {
+	max-width: 100%;
+	height: auto;
+}
+
+.boostpanel-tier-img {
+	margin: 0 auto;
+	max-width: 47%;
+}
+
+.current-order-detail-title {
+	color: #3498db;
+	font-size: 18px;
+}
+
+.current-order-detail-league {
+	font-size: 30px;
+    line-height: 15px;
+    font-weight: 600;
+}
+
+.current-order-detail-division {
+	font-size: 25px;
+    line-height: 30px;
+    font-weight: 600;
+}
+
+.current-order-detail-league-points {
+	margin-top: 30px;
+	font-size: 15px;
+}
+
+.current-order-detail-league-points-number {
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 10px;
+}
+
+
+fieldset {
+	border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow:  0px 0px 0px 0px #000!important;
+            box-shadow:  0px 0px 0px 0px #000!important;
+}
+
+legend {
+	font-size: 1.2em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+    width:auto!important;
+    padding:0 10px!important;
+   	border-bottom:none!important;
+}
+
+.boost-box {
+	font-family: "Open Sans", sans-serif;
+	text-transform: uppercase;
+    color: #FFF;
+    font-size: 11px;
+    font-weight: 500;
+    border-radius: 4px;
+    padding: 2px 6px 2px 6px;
+}
+
+.boost-box.orange {
+	background-color: #FFA000;
+}
+.boost-box.red {
+	background-color: #e74c3c;
+}
+.boost-box.blue {
+	background-color: #3498db;
+}
+
+#match_history_table td{
+	vertical-align: middle;
+	font-size: 18px;
+}
+
+.match-history-champion {
+	border-radius: 50%;
+	width: 60px;
+}
+
+.match-history-item {
+	width: 40px;
+	height: auto;
+}
+
+#match_history_table .history-result small {
+	font-size: 11px;
+}
+
+#match_history_table .history-result h4 {
+    text-transform: uppercase;
+    font-size: 23px;
+    line-height: 3px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+#match_history_table .history-win .history-champion {
+	border-left: 5px solid #689F38;
+}
+#match_history_table .history-lose .history-champion {
+	border-left: 5px solid #DD2C00;
+}
+
+#match_history_table .history-win .history-result h4 {
+	color: #689F38;
+}
+#match_history_table .history-lose .history-result h4 {
+	color: #DD2C00;
+}

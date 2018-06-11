@@ -1,0 +1,17 @@
+{
+    "name": "theo/mini-framework",
+    "authors": [
+        {
+            "name": "Theo",
+            "email": "theo.benoit16@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"App\\": "app"
+    	}
+    },
+    "require": {
+        "paypal/rest-api-sdk-php": "^1.13"
+    }
+}
